@@ -1,6 +1,6 @@
 {
   "name": "@recappi/sdk",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Cross platform audio capture SDK",
   "main": "index.cjs",
   "types": "./index.d.cts",
